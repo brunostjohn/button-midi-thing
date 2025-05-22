@@ -1,0 +1,12 @@
+[submodule "RP2040-designguide"]
+	path = RP2040-designguide
+	url = https://github.com/calliah333/RP2040-designguide.git
+[submodule "Arcade-Switches"]
+	path = Arcade-Switches
+	url = https://github.com/Zokhoi/Arcade-Switches
+[submodule "MX_Alps_Hybrid"]
+	path = MX_Alps_Hybrid
+	url = https://github.com/ai03-2725/MX_Alps_Hybrid
+[submodule "random-keyboard-parts.pretty"]
+	path = random-keyboard-parts.pretty
+	url = https://github.com/ai03-2725/random-keyboard-parts.pretty
