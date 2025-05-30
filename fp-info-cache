@@ -1,4 +1,4 @@
-25370322103012822
+25373819398536283
 2340901-1
 TE_2340901-1
 
@@ -36,6 +36,13 @@ seimitsu,mm-9-3-au,switch
 2
 Arcade_Switch
 MM9-3-AU-withbutton
+MM9-3-AU THT pads
+seimitsu,mm-9-3-au,switch
+0
+2
+2
+Arcade_Switch
+MM9-3-AU-withbutton-notxt
 MM9-3-AU THT pads
 seimitsu,mm-9-3-au,switch
 0
@@ -67411,6 +67418,13 @@ mounting hole 2.2mm no annular m2 din965
 0
 MountingHole
 MountingHole_2.2mm_M2_DIN965_Pad
+Mounting Hole 2.2mm, M2, DIN965
+mounting hole 2.2mm m2 din965
+0
+1
+1
+MountingHole
+MountingHole_2.2mm_M2_DIN965_Pad-notxt
 Mounting Hole 2.2mm, M2, DIN965
 mounting hole 2.2mm m2 din965
 0

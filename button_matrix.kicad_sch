@@ -4276,7 +4276,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton"
+		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton-notxt"
 			(at 142.875 51.435 0)
 			(effects
 				(font
@@ -4520,7 +4520,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton"
+		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton-notxt"
 			(at 60.325 51.435 0)
 			(effects
 				(font
@@ -4588,7 +4588,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton"
+		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton-notxt"
 			(at 108.585 159.385 0)
 			(effects
 				(font
@@ -4656,7 +4656,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton"
+		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton-notxt"
 			(at 43.815 94.615 0)
 			(effects
 				(font
@@ -4724,7 +4724,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton"
+		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton-notxt"
 			(at 142.875 29.845 0)
 			(effects
 				(font
@@ -5162,7 +5162,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton"
+		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton-notxt"
 			(at 93.345 73.025 0)
 			(effects
 				(font
@@ -5424,7 +5424,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton"
+		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton-notxt"
 			(at 93.345 29.845 0)
 			(effects
 				(font
@@ -5580,7 +5580,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton"
+		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton-notxt"
 			(at 27.305 29.845 0)
 			(effects
 				(font
@@ -5648,7 +5648,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton"
+		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton-notxt"
 			(at 42.545 159.385 0)
 			(effects
 				(font
@@ -5716,7 +5716,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton"
+		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton-notxt"
 			(at 75.565 159.385 0)
 			(effects
 				(font
@@ -5784,7 +5784,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton"
+		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton-notxt"
 			(at 75.565 137.795 0)
 			(effects
 				(font
@@ -5852,7 +5852,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton"
+		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton-notxt"
 			(at 43.815 51.435 0)
 			(effects
 				(font
@@ -6008,7 +6008,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton"
+		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton-notxt"
 			(at 142.875 73.025 0)
 			(effects
 				(font
@@ -6076,7 +6076,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton"
+		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton-notxt"
 			(at 93.345 94.615 0)
 			(effects
 				(font
@@ -6232,7 +6232,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton"
+		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton-notxt"
 			(at 108.585 180.975 0)
 			(effects
 				(font
@@ -6300,7 +6300,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton"
+		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton-notxt"
 			(at 27.305 73.025 0)
 			(effects
 				(font
@@ -6456,7 +6456,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton"
+		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton-notxt"
 			(at 59.055 159.385 0)
 			(effects
 				(font
@@ -6612,7 +6612,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton"
+		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton-notxt"
 			(at 42.545 116.205 0)
 			(effects
 				(font
@@ -7010,7 +7010,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton"
+		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton-notxt"
 			(at 92.075 180.975 0)
 			(effects
 				(font
@@ -7606,7 +7606,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton"
+		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton-notxt"
 			(at 26.035 180.975 0)
 			(effects
 				(font
@@ -7674,7 +7674,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton"
+		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton-notxt"
 			(at 126.365 51.435 0)
 			(effects
 				(font
@@ -7742,7 +7742,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton"
+		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton-notxt"
 			(at 92.075 137.795 0)
 			(effects
 				(font
@@ -8158,7 +8158,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton"
+		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton-notxt"
 			(at 59.055 116.205 0)
 			(effects
 				(font
@@ -8402,7 +8402,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton"
+		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton-notxt"
 			(at 126.365 94.615 0)
 			(effects
 				(font
@@ -8470,7 +8470,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton"
+		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton-notxt"
 			(at 43.815 29.845 0)
 			(effects
 				(font
@@ -8714,7 +8714,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton"
+		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton-notxt"
 			(at 108.585 116.205 0)
 			(effects
 				(font
@@ -8782,7 +8782,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton"
+		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton-notxt"
 			(at 108.585 137.795 0)
 			(effects
 				(font
@@ -8938,7 +8938,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton"
+		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton-notxt"
 			(at 125.095 116.205 0)
 			(effects
 				(font
@@ -9376,7 +9376,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton"
+		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton-notxt"
 			(at 76.835 51.435 0)
 			(effects
 				(font
@@ -9532,7 +9532,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton"
+		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton-notxt"
 			(at 142.875 94.615 0)
 			(effects
 				(font
@@ -9776,7 +9776,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton"
+		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton-notxt"
 			(at 125.095 180.975 0)
 			(effects
 				(font
@@ -9844,7 +9844,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton"
+		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton-notxt"
 			(at 60.325 73.025 0)
 			(effects
 				(font
@@ -10000,7 +10000,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton"
+		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton-notxt"
 			(at 141.605 180.975 0)
 			(effects
 				(font
@@ -10134,7 +10134,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton"
+		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton-notxt"
 			(at 59.055 180.975 0)
 			(effects
 				(font
@@ -10202,7 +10202,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton"
+		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton-notxt"
 			(at 60.325 29.845 0)
 			(effects
 				(font
@@ -10336,7 +10336,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton"
+		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton-notxt"
 			(at 141.605 159.385 0)
 			(effects
 				(font
@@ -10756,7 +10756,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton"
+		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton-notxt"
 			(at 109.855 51.435 0)
 			(effects
 				(font
@@ -10824,7 +10824,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton"
+		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton-notxt"
 			(at 109.855 73.025 0)
 			(effects
 				(font
@@ -10980,7 +10980,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton"
+		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton-notxt"
 			(at 26.035 137.795 0)
 			(effects
 				(font
@@ -11136,7 +11136,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton"
+		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton-notxt"
 			(at 26.035 116.205 0)
 			(effects
 				(font
@@ -11204,7 +11204,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton"
+		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton-notxt"
 			(at 76.835 73.025 0)
 			(effects
 				(font
@@ -11866,7 +11866,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton"
+		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton-notxt"
 			(at 76.835 29.845 0)
 			(effects
 				(font
@@ -12198,7 +12198,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton"
+		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton-notxt"
 			(at 125.095 137.795 0)
 			(effects
 				(font
@@ -12354,7 +12354,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton"
+		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton-notxt"
 			(at 126.365 29.845 0)
 			(effects
 				(font
@@ -12598,7 +12598,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton"
+		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton-notxt"
 			(at 60.325 94.615 0)
 			(effects
 				(font
@@ -12666,7 +12666,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton"
+		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton-notxt"
 			(at 75.565 180.975 0)
 			(effects
 				(font
@@ -12822,7 +12822,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton"
+		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton-notxt"
 			(at 141.605 116.205 0)
 			(effects
 				(font
@@ -13172,7 +13172,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton"
+		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton-notxt"
 			(at 76.835 94.615 0)
 			(effects
 				(font
@@ -13328,7 +13328,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton"
+		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton-notxt"
 			(at 125.095 159.385 0)
 			(effects
 				(font
@@ -13396,7 +13396,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton"
+		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton-notxt"
 			(at 59.055 137.795 0)
 			(effects
 				(font
@@ -14058,7 +14058,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton"
+		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton-notxt"
 			(at 27.305 51.435 0)
 			(effects
 				(font
@@ -14214,7 +14214,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton"
+		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton-notxt"
 			(at 109.855 29.845 0)
 			(effects
 				(font
@@ -14282,7 +14282,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton"
+		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton-notxt"
 			(at 42.545 180.975 0)
 			(effects
 				(font
@@ -14438,7 +14438,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton"
+		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton-notxt"
 			(at 75.565 116.205 0)
 			(effects
 				(font
@@ -14682,7 +14682,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton"
+		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton-notxt"
 			(at 93.345 51.435 0)
 			(effects
 				(font
@@ -14750,7 +14750,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton"
+		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton-notxt"
 			(at 42.545 137.795 0)
 			(effects
 				(font
@@ -14818,7 +14818,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton"
+		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton-notxt"
 			(at 92.075 116.205 0)
 			(effects
 				(font
@@ -14886,7 +14886,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton"
+		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton-notxt"
 			(at 43.815 73.025 0)
 			(effects
 				(font
@@ -14954,7 +14954,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton"
+		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton-notxt"
 			(at 92.075 159.385 0)
 			(effects
 				(font
@@ -15282,7 +15282,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton"
+		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton-notxt"
 			(at 109.855 94.615 0)
 			(effects
 				(font
@@ -15790,7 +15790,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton"
+		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton-notxt"
 			(at 27.305 94.615 0)
 			(effects
 				(font
@@ -16034,7 +16034,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton"
+		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton-notxt"
 			(at 126.365 73.025 0)
 			(effects
 				(font
@@ -16384,7 +16384,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton"
+		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton-notxt"
 			(at 26.035 159.385 0)
 			(effects
 				(font
@@ -16540,7 +16540,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton"
+		(property "Footprint" "Arcade_Switch:MM9-3-AU-withbutton-notxt"
 			(at 141.605 137.795 0)
 			(effects
 				(font
