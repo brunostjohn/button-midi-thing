@@ -72,7 +72,7 @@
         "creepage": "error",
         "diff_pair_gap_out_of_range": "error",
         "diff_pair_uncoupled_length_too_long": "error",
-        "drill_out_of_range": "error",
+        "drill_out_of_range": "warning",
         "duplicate_footprints": "warning",
         "extra_footprint": "warning",
         "footprint": "error",
@@ -481,15 +481,15 @@
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
         "line_style": 0,
-        "microvia_diameter": 0.3,
+        "microvia_diameter": 0.225,
         "microvia_drill": 0.1,
         "name": "Default",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 2147483647,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.1,
-        "via_diameter": 0.6,
-        "via_drill": 0.3,
+        "via_diameter": 0.45,
+        "via_drill": 0.225,
         "wire_width": 6
       },
       {
@@ -498,7 +498,7 @@
         "diff_pair_width": 0.15,
         "microvia_diameter": 0.225,
         "microvia_drill": 0.1,
-        "name": "5V",
+        "name": "Power",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 0,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
@@ -512,7 +512,24 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": []
+    "netclass_patterns": [
+      {
+        "netclass": "Power",
+        "pattern": "+*V*"
+      },
+      {
+        "netclass": "Power",
+        "pattern": ".*DIN.*"
+      },
+      {
+        "netclass": "Default",
+        "pattern": ".*DOUT.*"
+      },
+      {
+        "netclass": "Default",
+        "pattern": ".*QSPI.*"
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {
@@ -522,7 +539,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Button MIDI Controller.step",
       "svg": "",
       "vrml": ""
     },

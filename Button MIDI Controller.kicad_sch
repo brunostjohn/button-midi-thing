@@ -4548,12 +4548,60 @@
 		(uuid "fdc7166a-db2b-48ec-a1cd-62005d7c37c6")
 	)
 	(no_connect
+		(at 77.47 132.08)
+		(uuid "023518c2-c16b-4c6b-b61a-decaffd70384")
+	)
+	(no_connect
+		(at 77.47 129.54)
+		(uuid "036ce2b3-1076-4080-ab15-ae85f593abbc")
+	)
+	(no_connect
+		(at 77.47 120.65)
+		(uuid "2c3e6dba-aac0-4431-a1cd-07075dc4b8c1")
+	)
+	(no_connect
+		(at 77.47 110.49)
+		(uuid "35b89ce3-db2f-46c1-9dff-d103b9072b07")
+	)
+	(no_connect
+		(at 77.47 134.62)
+		(uuid "75ecc469-bd0e-4951-a9da-7eb0e983cfdf")
+	)
+	(no_connect
+		(at 77.47 105.41)
+		(uuid "79b076b2-2183-4cd3-8ed9-34ab38753656")
+	)
+	(no_connect
+		(at 77.47 90.17)
+		(uuid "a05e00ca-56dc-458c-9065-793ca505f459")
+	)
+	(no_connect
 		(at 191.77 143.51)
 		(uuid "a5822e11-a145-460d-9957-700c40dccc8e")
 	)
 	(no_connect
+		(at 77.47 123.19)
+		(uuid "b0d3479d-d05d-46b1-9424-df798cbc2bd4")
+	)
+	(no_connect
+		(at 77.47 92.71)
+		(uuid "bdeb97f0-054c-483e-af3d-e9b68604c616")
+	)
+	(no_connect
 		(at 191.77 140.97)
 		(uuid "ed969df4-3bc5-481a-b3de-2b852aee42e3")
+	)
+	(no_connect
+		(at 77.47 107.95)
+		(uuid "f496e022-bbfb-4714-a8e7-676267fb8c19")
+	)
+	(no_connect
+		(at 77.47 113.03)
+		(uuid "f5ca6b67-18e3-4c42-b6da-e9cb8ab4ea9f")
+	)
+	(no_connect
+		(at 77.47 137.16)
+		(uuid "fe568ef1-d08d-4df5-9e2d-e01b091a215a")
 	)
 	(wire
 		(pts
@@ -5575,6 +5623,28 @@
 		)
 		(uuid "fb03b515-b734-4e5c-bd66-0aa4c41c70a9")
 	)
+	(global_label "COL1"
+		(shape input)
+		(at 77.47 82.55 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "02943ed5-ad3f-4c4a-81fd-66d153a1a96e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 85.2933 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "QSPI_SD0"
 		(shape input)
 		(at 36.83 127 180)
@@ -5637,6 +5707,28 @@
 			)
 		)
 	)
+	(global_label "ROW1"
+		(shape input)
+		(at 77.47 77.47 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0c13ae11-0f42-44ba-9fdd-407c030ce065")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 85.7166 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "XTAL_OUT"
 		(shape input)
 		(at 246.38 81.28 0)
@@ -5675,6 +5767,28 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ROW3"
+		(shape input)
+		(at 77.47 72.39 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "18000b28-db0a-4264-8e42-cb6fec459d74")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 85.7166 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -5785,6 +5899,28 @@
 			)
 		)
 	)
+	(global_label "ROW7"
+		(shape input)
+		(at 77.47 62.23 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "36b4cd4c-e190-4873-8735-d6e69d9cd11f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 85.7166 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "SWDIO"
 		(shape input)
 		(at 254 121.92 180)
@@ -5807,6 +5943,50 @@
 			)
 		)
 	)
+	(global_label "ROW5"
+		(shape input)
+		(at 77.47 67.31 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4a31d770-20fd-4dd8-a017-e046715f93e7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 85.7166 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ROW2"
+		(shape input)
+		(at 77.47 74.93 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5082ea74-fde3-4c66-ae1d-287ca79029c1")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 85.7166 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "QSPI_SD2"
 		(shape input)
 		(at 261.62 44.45 0)
@@ -5820,6 +6000,50 @@
 		(uuid "512ea170-5df3-411f-a0b7-c8cef055b872")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 273.6766 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "COL8"
+		(shape input)
+		(at 77.47 87.63 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "514a08ec-7ddb-42be-ad71-a07b9f3e31ea")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 85.2933 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "LED_DIN"
+		(shape input)
+		(at 77.47 59.69 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5176b685-f35b-49b1-8fb1-3a6e176e5d4c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 88.0752 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5871,6 +6095,72 @@
 			)
 		)
 	)
+	(global_label "COL3"
+		(shape input)
+		(at 77.47 118.11 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "607f9162-8cda-4a6d-bcbf-32a0206783b3")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 85.2933 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "COL7"
+		(shape input)
+		(at 77.47 95.25 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "608040e4-e223-4288-927b-b84e6da41873")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 85.2933 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "COL6"
+		(shape input)
+		(at 77.47 97.79 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "672ac433-1fe5-437c-9aae-2d5585c2ab81")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 85.2933 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "QSPI_SS_N"
 		(shape input)
 		(at 213.36 34.29 180)
@@ -5889,6 +6179,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ROW4"
+		(shape input)
+		(at 77.47 69.85 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6ebfd305-dae5-4c17-81b9-c951bd453fd5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 85.7166 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -5933,6 +6245,50 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "COL4"
+		(shape input)
+		(at 77.47 115.57 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7f94089d-1116-4172-be9f-122cb5431f01")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 85.2933 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ROW6"
+		(shape input)
+		(at 77.47 64.77 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "82826779-986f-4c10-b670-6be20ada494a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 85.7166 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -6037,6 +6393,50 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "COL2"
+		(shape input)
+		(at 77.47 80.01 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ba47d4b7-d8b5-4dc1-94a0-e01127100d31")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 85.2933 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "COL0"
+		(shape input)
+		(at 77.47 85.09 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "cb1ec89a-67ac-4edb-9341-5058431aa321")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 85.2933 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -6191,6 +6591,28 @@
 			)
 		)
 	)
+	(global_label "COL5"
+		(shape input)
+		(at 77.47 102.87 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e950180e-4d54-4ecf-8037-f698e2a815b2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 85.2933 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "D_P"
 		(shape input)
 		(at 29.21 68.58 180)
@@ -6207,6 +6629,28 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ROW0"
+		(shape input)
+		(at 77.47 100.33 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "fb639e56-4340-4842-825d-de6553ede746")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 85.7166 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -6239,7 +6683,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Footprints:RP2040-QFN-56"
+		(property "Footprint" "Footprints:RP2040-QFN-56-notext"
 			(at 36.83 40.64 0)
 			(effects
 				(font
@@ -6474,7 +6918,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric-notxt"
 			(at 224.79 76.2 0)
 			(effects
 				(font
@@ -6544,7 +6988,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric-notext"
 			(at 214.63 29.21 0)
 			(effects
 				(font
@@ -6809,7 +7253,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric-notext"
 			(at 207.01 118.11 0)
 			(effects
 				(font
@@ -6945,7 +7389,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric-notxt"
 			(at 146.05 180.34 0)
 			(effects
 				(font
@@ -7015,7 +7459,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric-notxt"
 			(at 68.58 180.34 0)
 			(effects
 				(font
@@ -7083,7 +7527,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-3"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-3-notxt"
 			(at 171.45 26.035 0)
 			(effects
 				(font
@@ -7289,7 +7733,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric-notxt"
 			(at 134.62 180.34 0)
 			(effects
 				(font
@@ -7423,7 +7867,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric-notxt"
 			(at 270.51 31.75 0)
 			(effects
 				(font
@@ -7490,7 +7934,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric-notext"
 			(at 31.75 76.2 0)
 			(effects
 				(font
@@ -7558,7 +8002,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_USB:USB_C_Receptacle_G-Switch_GT-USB-7025"
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_G-Switch_GT-USB-7025-notxt"
 			(at 180.34 128.27 0)
 			(effects
 				(font
@@ -7739,7 +8183,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric-notxt"
 			(at 100.33 180.34 0)
 			(effects
 				(font
@@ -7806,7 +8250,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Fuse:Fuse_0603_1608Metric"
+		(property "Footprint" "Fuse:Fuse_0402_1005Metric-notxt"
 			(at 199.39 113.03 0)
 			(effects
 				(font
@@ -7942,7 +8386,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric-notxt"
 			(at 182.88 38.1 0)
 			(effects
 				(font
@@ -8075,7 +8519,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric-notext"
 			(at 200.66 121.92 0)
 			(effects
 				(font
@@ -8342,7 +8786,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric-notxt"
 			(at 88.9 180.34 0)
 			(effects
 				(font
@@ -8412,7 +8856,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric-notext"
 			(at 30.48 54.61 0)
 			(effects
 				(font
@@ -8678,7 +9122,7 @@
 				)
 			)
 		)
-		(property "Footprint" "W25Q16JVZPIQ:SON127P500X600X80-9N"
+		(property "Footprint" "W25Q16JVZPIQ:SON127P500X600X80-9N-notxt"
 			(at 238.76 41.91 0)
 			(effects
 				(font
@@ -9296,7 +9740,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric-notxt"
 			(at 160.02 38.1 0)
 			(effects
 				(font
@@ -9432,7 +9876,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric-notxt"
 			(at 77.47 180.34 0)
 			(effects
 				(font
@@ -9565,7 +10009,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric-notxt"
 			(at 224.79 87.63 0)
 			(effects
 				(font
@@ -9633,7 +10077,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_4.0x4.0mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm-notxt"
 			(at 220.98 24.13 0)
 			(effects
 				(font
@@ -9769,7 +10213,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x05_P1.00mm_Vertical_SMD_Pin1Right"
+		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x05_P1.00mm_Vertical_SMD_Pin1Right-notxt"
 			(at 259.08 119.38 0)
 			(effects
 				(font
@@ -9914,7 +10358,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric-notxt"
 			(at 58.42 180.34 0)
 			(effects
 				(font
@@ -9984,7 +10428,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric-notxt"
 			(at 115.57 25.4 0)
 			(effects
 				(font
@@ -10054,7 +10498,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric-notxt"
 			(at 123.19 180.34 0)
 			(effects
 				(font
@@ -10124,7 +10568,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric-notxt"
 			(at 111.76 180.34 0)
 			(effects
 				(font
@@ -10194,7 +10638,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric-notxt"
 			(at 90.17 25.4 0)
 			(effects
 				(font
@@ -10327,7 +10771,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Crystal:Crystal_SMD_7050-4Pin_7.0x5.0mm"
+		(property "Footprint" "Crystal:Crystal_SMD_2016-4Pin_2.0x1.6mm-notxt"
 			(at 237.49 78.74 0)
 			(effects
 				(font
@@ -10403,7 +10847,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6-notxt"
 			(at 172.72 77.47 0)
 			(effects
 				(font
@@ -10554,7 +10998,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric-notxt"
 			(at 99.06 25.4 0)
 			(effects
 				(font
@@ -10621,7 +11065,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric-notext"
 			(at 31.75 68.58 0)
 			(effects
 				(font
@@ -10754,7 +11198,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric-notext"
 			(at 33.02 88.9 0)
 			(effects
 				(font

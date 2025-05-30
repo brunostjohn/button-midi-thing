@@ -1,4 +1,4 @@
-25344092437147102
+25370322103012822
 2340901-1
 TE_2340901-1
 
@@ -29,6 +29,13 @@ seimitsu,mm-9-2,mm-9-3-au,switch
 2
 Arcade_Switch
 MM9-3-AU
+MM9-3-AU THT pads
+seimitsu,mm-9-3-au,switch
+0
+2
+2
+Arcade_Switch
+MM9-3-AU-withbutton
 MM9-3-AU THT pads
 seimitsu,mm-9-3-au,switch
 0
@@ -3438,6 +3445,13 @@ capacitor handsolder
 2
 Capacitor_SMD
 C_0402_1005Metric
+Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+Capacitor_SMD
+C_0402_1005Metric-notxt
 Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
 capacitor
 0
@@ -30156,6 +30170,13 @@ Surface mounted pin header SMD 1x05 1.00mm single row style2 pin1 right
 5
 5
 Connector_PinHeader_1.00mm
+PinHeader_1x05_P1.00mm_Vertical_SMD_Pin1Right-notxt
+surface-mounted straight pin header, 1x05, 1.00mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x05 1.00mm single row style2 pin1 right
+0
+5
+5
+Connector_PinHeader_1.00mm
 PinHeader_1x06_P1.00mm_Horizontal
 Through hole angled pin header, 1x06, 1.00mm pitch, 2.0mm pin length, single row
 Through hole angled pin header THT 1x06 1.00mm single row
@@ -50743,6 +50764,13 @@ USB C Type-C Receptacle SMD
 22
 18
 Connector_USB
+USB_C_Receptacle_G-Switch_GT-USB-7025-notxt
+USB Type C, right-angle, SMT, https://www.lcsc.com/datasheet/lcsc_datasheet_2312191005_G-Switch-GT-USB-7025_C963213.pdf
+USB C Type-C Receptacle SMD
+0
+22
+18
+Connector_USB
 USB_C_Receptacle_G-Switch_GT-USB-7051x
 USB Type C, vertical, SMT, https://datasheet.lcsc.com/lcsc/2108072030_G-Switch-GT-USB-7051A_C2843970.pdf
 USB C Type-C Receptacle SMD GT-USB-7051A GT-USB-7051B
@@ -55482,6 +55510,13 @@ SMD SMT crystal
 4
 4
 Crystal
+Crystal_SMD_2016-4Pin_2.0x1.6mm-notxt
+SMD Crystal SERIES SMD2016/4 http://www.q-crystal.com/upload/5/2015552223166229.pdf, 2.0x1.6mm^2 package
+SMD SMT crystal
+0
+4
+4
+Crystal
 Crystal_SMD_2520-4Pin_2.5x2.0mm
 SMD Crystal SERIES SMD2520/4 http://www.newxtal.com/UploadFiles/Images/2012-11-12-09-29-09-776.pdf, 2.5x2.0mm^2 package
 SMD SMT crystal
@@ -56288,6 +56323,13 @@ diode handsolder
 2
 Diode_SMD
 D_0603_1608Metric
+Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+diode
+0
+2
+2
+Diode_SMD
+D_0603_1608Metric-notxt
 Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
 diode
 0
@@ -58512,6 +58554,13 @@ QFN DFN_QFN
 0
 70
 57
+Footprints
+RP2040-QFN-56-notext
+QFN, 56 Pin (http://www.cypress.com/file/416486/download#page=40), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+70
+57
 Fuse
 FuseHolder_Blade_ATO_Littelfuse_FLR_178.6165
 Littelfuse fuse holder for ATO/FKS blade fuses, 80V, vertical, 20 x 6mm, PCB thickness up to 1.5mm, http://www.littelfuse.com/~/media/commercial-vehicle/datasheets/automotive-fuse-holders/ato/littelfuse-fuse-holder-ato-flr-pcb-datasheet.pdf
@@ -58521,6 +58570,13 @@ ATO FKS blade fuse holder
 2
 Fuse
 Fuse_0402_1005Metric
+Fuse SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+fuse
+0
+2
+2
+Fuse
+Fuse_0402_1005Metric-notxt
 Fuse SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
 fuse
 0
@@ -66361,6 +66417,13 @@ LED RGB NeoPixel PLCC-4 5050
 4
 LED_SMD
 LED_WS2812B-2020_PLCC4_2.0x2.0mm
+2.0mm x 2.0mm Addressable RGB LED NeoPixel Nano, 12 mA, https://cdn-shop.adafruit.com/product-files/4684/4684_WS2812B-2020_V1.3_EN.pdf
+LED RGB NeoPixel Nano PLCC-4 2020
+0
+4
+4
+LED_SMD
+LED_WS2812B-2020_PLCC4_2.0x2.0mm-notext
 2.0mm x 2.0mm Addressable RGB LED NeoPixel Nano, 12 mA, https://cdn-shop.adafruit.com/product-files/4684/4684_WS2812B-2020_V1.3_EN.pdf
 LED RGB NeoPixel Nano PLCC-4 2020
 0
@@ -85792,6 +85855,13 @@ SOT TO_SOT_SMD
 3
 3
 Package_TO_SOT_SMD
+SOT-23-3-notxt
+SOT, 3 Pin (JEDEC MO-178 inferred 3-pin variant https://www.jedec.org/document_search?search_api_views_fulltext=MO-178), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT TO_SOT_SMD
+0
+3
+3
+Package_TO_SOT_SMD
 SOT-23-5
 SOT, 5 Pin (JEDEC MO-178 Var AA https://www.jedec.org/document_search?search_api_views_fulltext=MO-178), generated with kicad-footprint-generator ipc_gullwing_generator.py
 SOT TO_SOT_SMD
@@ -85807,6 +85877,13 @@ SOT-23-5 hand-soldering
 5
 Package_TO_SOT_SMD
 SOT-23-6
+SOT, 6 Pin (JEDEC MO-178 Var AB https://www.jedec.org/document_search?search_api_views_fulltext=MO-178), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT TO_SOT_SMD
+0
+6
+6
+Package_TO_SOT_SMD
+SOT-23-6-notxt
 SOT, 6 Pin (JEDEC MO-178 Var AB https://www.jedec.org/document_search?search_api_views_fulltext=MO-178), generated with kicad-footprint-generator ipc_gullwing_generator.py
 SOT TO_SOT_SMD
 0
@@ -91371,6 +91448,13 @@ resistor
 2
 2
 Resistor_SMD
+R_0402_1005Metric-notext
+Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+Resistor_SMD
 R_0402_1005Metric_Pad0.72x0.64mm_HandSolder
 Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
 resistor handsolder
@@ -94774,6 +94858,13 @@ Logo WEEE
 0
 TS11-674-120-BK-100-RA-D
 SW_TS11-674-120-BK-100-RA-D
+
+
+0
+4
+4
+TS11-674-120-BK-100-RA-D
+SW_TS11-674-120-BK-100-RA-D-notxt
 
 
 0
@@ -99785,6 +99876,13 @@ test point SMD pad rectangle square
 1
 1
 TestPoint
+TestPoint_Pad_1.0x1.0mm-notxt
+SMD rectangular pad as test Point, square 1.0mm side length
+test point SMD pad rectangle square
+0
+1
+1
+TestPoint
 TestPoint_Pad_1.5x1.5mm
 SMD rectangular pad as test Point, square 1.5mm side length
 test point SMD pad rectangle square
@@ -101592,6 +101690,13 @@ Varistor VF
 2
 W25Q16JVZPIQ
 SON127P500X600X80-9N
+
+
+0
+9
+9
+W25Q16JVZPIQ
+SON127P500X600X80-9N-notxt
 
 
 0
