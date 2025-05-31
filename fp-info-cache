@@ -1,4 +1,4 @@
-25373819398536283
+25377316837768928
 2340901-1
 TE_2340901-1
 
@@ -56721,6 +56721,13 @@ SOD-123
 2
 2
 Diode_SMD
+D_SOD-123-notxt
+SOD-123
+SOD-123
+0
+2
+2
+Diode_SMD
 D_SOD-123F
 D_SOD-123F
 D_SOD-123F
@@ -67971,6 +67978,13 @@ mounting hole 4.3mm m4 din965
 1
 MountingHole
 MountingHole_4.3mm_M4_DIN965_Pad_TopBottom
+Mounting Hole 4.3mm, M4, DIN965
+mounting hole 4.3mm m4 din965
+0
+3
+1
+MountingHole
+MountingHole_4.3mm_M4_DIN965_Pad_TopBottom-notxt
 Mounting Hole 4.3mm, M4, DIN965
 mounting hole 4.3mm m4 din965
 0

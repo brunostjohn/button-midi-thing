@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "9.0.1"
     },
-    "CreationDate": "2025-05-31T11:39:57+01:00"
+    "CreationDate": "2025-05-31T14:15:33+01:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -72,6 +72,16 @@
       "Path": "Button MIDI Controller-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
+    },
+    {
+      "Path": "Button MIDI Controller-User_Drawings.gbr",
+      "FileFunction": "Other,User",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "Button MIDI Controller-User_Comments.gbr",
+      "FileFunction": "Other,User",
+      "FilePolarity": "Positive"
     },
     {
       "Path": "Button MIDI Controller-Edge_Cuts.gbr",

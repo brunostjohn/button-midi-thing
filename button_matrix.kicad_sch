@@ -4190,7 +4190,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 53.34 165.1 90)
 			(effects
 				(font
@@ -4346,7 +4346,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 137.16 57.15 90)
 			(effects
 				(font
@@ -4434,7 +4434,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 120.65 57.15 90)
 			(effects
 				(font
@@ -4794,7 +4794,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 38.1 100.33 90)
 			(effects
 				(font
@@ -4882,7 +4882,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 153.67 57.15 90)
 			(effects
 				(font
@@ -5494,7 +5494,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 36.83 143.51 90)
 			(effects
 				(font
@@ -5922,7 +5922,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 137.16 78.74 90)
 			(effects
 				(font
@@ -6146,7 +6146,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 36.83 121.92 90)
 			(effects
 				(font
@@ -6370,7 +6370,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 36.83 165.1 90)
 			(effects
 				(font
@@ -6526,7 +6526,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 152.4 186.69 90)
 			(effects
 				(font
@@ -6682,7 +6682,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 119.38 165.1 90)
 			(effects
 				(font
@@ -6836,7 +6836,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 71.12 100.33 90)
 			(effects
 				(font
@@ -6924,7 +6924,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 102.87 165.1 90)
 			(effects
 				(font
@@ -7080,7 +7080,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 119.38 186.69 90)
 			(effects
 				(font
@@ -7168,7 +7168,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 171.45 35.56 90)
 			(effects
 				(font
@@ -7256,7 +7256,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 86.36 143.51 90)
 			(effects
 				(font
@@ -7344,7 +7344,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 102.87 186.69 90)
 			(effects
 				(font
@@ -7432,7 +7432,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 54.61 78.74 90)
 			(effects
 				(font
@@ -7520,7 +7520,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 69.85 143.51 90)
 			(effects
 				(font
@@ -7812,7 +7812,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 175.26 138.43 90)
 			(effects
 				(font
@@ -8228,7 +8228,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 38.1 57.15 90)
 			(effects
 				(font
@@ -8316,7 +8316,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 87.63 35.56 90)
 			(effects
 				(font
@@ -8540,7 +8540,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 71.12 35.56 90)
 			(effects
 				(font
@@ -8628,7 +8628,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 69.85 121.92 90)
 			(effects
 				(font
@@ -8852,7 +8852,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 102.87 121.92 90)
 			(effects
 				(font
@@ -9008,7 +9008,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 104.14 57.15 90)
 			(effects
 				(font
@@ -9096,7 +9096,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 135.89 143.51 90)
 			(effects
 				(font
@@ -9446,7 +9446,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 152.4 143.51 90)
 			(effects
 				(font
@@ -9602,7 +9602,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 153.67 78.74 90)
 			(effects
 				(font
@@ -9690,7 +9690,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 104.14 100.33 90)
 			(effects
 				(font
@@ -9914,7 +9914,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 53.34 186.69 90)
 			(effects
 				(font
@@ -10406,7 +10406,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 175.26 57.15 90)
 			(effects
 				(font
@@ -10494,7 +10494,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 137.16 100.33 90)
 			(effects
 				(font
@@ -10582,7 +10582,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 135.89 165.1 90)
 			(effects
 				(font
@@ -10670,7 +10670,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 86.36 186.69 90)
 			(effects
 				(font
@@ -10894,7 +10894,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 54.61 100.33 90)
 			(effects
 				(font
@@ -11050,7 +11050,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 36.83 186.69 90)
 			(effects
 				(font
@@ -11274,7 +11274,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 54.61 35.56 90)
 			(effects
 				(font
@@ -11362,7 +11362,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 135.89 121.92 90)
 			(effects
 				(font
@@ -11450,7 +11450,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 175.26 95.25 90)
 			(effects
 				(font
@@ -11538,7 +11538,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 104.14 78.74 90)
 			(effects
 				(font
@@ -11692,7 +11692,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 86.36 165.1 90)
 			(effects
 				(font
@@ -11780,7 +11780,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 137.16 35.56 90)
 			(effects
 				(font
@@ -11936,7 +11936,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 86.36 121.92 90)
 			(effects
 				(font
@@ -12024,7 +12024,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 120.65 78.74 90)
 			(effects
 				(font
@@ -12112,7 +12112,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 175.26 116.84 90)
 			(effects
 				(font
@@ -12268,7 +12268,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 38.1 35.56 90)
 			(effects
 				(font
@@ -12424,7 +12424,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 119.38 121.92 90)
 			(effects
 				(font
@@ -12512,7 +12512,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 54.61 57.15 90)
 			(effects
 				(font
@@ -12736,7 +12736,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 87.63 57.15 90)
 			(effects
 				(font
@@ -13086,7 +13086,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 219.71 132.08 90)
 			(effects
 				(font
@@ -13242,7 +13242,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 153.67 35.56 90)
 			(effects
 				(font
@@ -13466,7 +13466,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 175.26 78.74 90)
 			(effects
 				(font
@@ -13554,7 +13554,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 135.89 186.69 90)
 			(effects
 				(font
@@ -13708,7 +13708,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 87.63 78.74 90)
 			(effects
 				(font
@@ -13796,7 +13796,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 119.38 143.51 90)
 			(effects
 				(font
@@ -13884,7 +13884,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 152.4 121.92 90)
 			(effects
 				(font
@@ -13972,7 +13972,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 87.63 100.33 90)
 			(effects
 				(font
@@ -14128,7 +14128,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 71.12 57.15 90)
 			(effects
 				(font
@@ -14352,7 +14352,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 38.1 78.74 90)
 			(effects
 				(font
@@ -14508,7 +14508,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 120.65 100.33 90)
 			(effects
 				(font
@@ -14596,7 +14596,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 69.85 165.1 90)
 			(effects
 				(font
@@ -15352,7 +15352,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 102.87 143.51 90)
 			(effects
 				(font
@@ -15440,7 +15440,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 104.14 35.56 90)
 			(effects
 				(font
@@ -15528,7 +15528,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 71.12 78.74 90)
 			(effects
 				(font
@@ -15616,7 +15616,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 153.67 100.33 90)
 			(effects
 				(font
@@ -15704,7 +15704,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 53.34 121.92 90)
 			(effects
 				(font
@@ -15860,7 +15860,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 120.65 35.56 90)
 			(effects
 				(font
@@ -15948,7 +15948,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 53.34 143.51 90)
 			(effects
 				(font
@@ -16298,7 +16298,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 152.4 165.1 90)
 			(effects
 				(font
@@ -16454,7 +16454,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric-notxt"
+		(property "Footprint" "Diode_SMD:D_SOD-123-notxt"
 			(at 69.85 186.69 90)
 			(effects
 				(font
