@@ -4967,7 +4967,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TS11-674-120-BK-100-RA-D:SW_TS11-674-120-BK-100-RA-D"
+		(property "Footprint" "TS11-674-120-BK-100-RA-D:SW_TS11-674-120-BK-100-RA-D-notxt"
 			(at 187.96 116.84 0)
 			(effects
 				(font
@@ -5229,7 +5229,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TS11-674-120-BK-100-RA-D:SW_TS11-674-120-BK-100-RA-D"
+		(property "Footprint" "TS11-674-120-BK-100-RA-D:SW_TS11-674-120-BK-100-RA-D-notxt"
 			(at 232.41 132.08 0)
 			(effects
 				(font
@@ -7897,7 +7897,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TS11-674-120-BK-100-RA-D:SW_TS11-674-120-BK-100-RA-D"
+		(property "Footprint" "TS11-674-120-BK-100-RA-D:SW_TS11-674-120-BK-100-RA-D-notxt"
 			(at 187.96 138.43 0)
 			(effects
 				(font
@@ -9181,7 +9181,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TS11-674-120-BK-100-RA-D:SW_TS11-674-120-BK-100-RA-D"
+		(property "Footprint" "TS11-674-120-BK-100-RA-D:SW_TS11-674-120-BK-100-RA-D-notxt"
 			(at 184.15 35.56 0)
 			(effects
 				(font
@@ -12889,7 +12889,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TS11-674-120-BK-100-RA-D:SW_TS11-674-120-BK-100-RA-D"
+		(property "Footprint" "TS11-674-120-BK-100-RA-D:SW_TS11-674-120-BK-100-RA-D-notxt"
 			(at 187.96 95.25 0)
 			(effects
 				(font
@@ -15021,7 +15021,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TS11-674-120-BK-100-RA-D:SW_TS11-674-120-BK-100-RA-D"
+		(property "Footprint" "TS11-674-120-BK-100-RA-D:SW_TS11-674-120-BK-100-RA-D-notxt"
 			(at 187.96 78.74 0)
 			(effects
 				(font
@@ -16101,7 +16101,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TS11-674-120-BK-100-RA-D:SW_TS11-674-120-BK-100-RA-D"
+		(property "Footprint" "TS11-674-120-BK-100-RA-D:SW_TS11-674-120-BK-100-RA-D-notxt"
 			(at 187.96 57.15 0)
 			(effects
 				(font
