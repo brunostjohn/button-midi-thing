@@ -4235,6 +4235,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C2099"
+			(at 53.34 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "c3ea5cc8-13f3-4c12-b511-ff49fb0b40fa")
 		)
@@ -4255,7 +4263,7 @@
 		(at 158.75 50.8 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -4391,6 +4399,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C2099"
+			(at 137.16 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "86db2495-48c3-4e47-a326-992bc9e5c9a9")
 		)
@@ -4479,6 +4495,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C2099"
+			(at 120.65 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "4d9a0f66-3f1e-461e-864e-c1cd148b9946")
 		)
@@ -4499,7 +4523,7 @@
 		(at 76.2 50.8 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -4567,7 +4591,7 @@
 		(at 124.46 158.75 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -4635,7 +4659,7 @@
 		(at 59.69 93.98 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -4703,7 +4727,7 @@
 		(at 158.75 29.21 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -4839,6 +4863,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C2099"
+			(at 38.1 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "d28b05d3-0676-426b-8a32-1c26eaef82c7")
 		)
@@ -4927,6 +4959,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C2099"
+			(at 153.67 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "b4897526-e0bd-4cb7-ab8c-617db5563175")
 		)
@@ -4947,7 +4987,7 @@
 		(at 187.96 116.84 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "15e3d6b8-9cf9-4eec-a9ea-43d038468b99")
@@ -5141,7 +5181,7 @@
 		(at 109.22 72.39 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -5209,7 +5249,7 @@
 		(at 232.41 132.08 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "19bc09a7-1a90-45ab-b8ab-287151ae2f45")
@@ -5403,7 +5443,7 @@
 		(at 109.22 29.21 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -5539,6 +5579,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C2099"
+			(at 36.83 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "399a2749-af42-4f36-be86-34560a75cd51")
 		)
@@ -5559,7 +5607,7 @@
 		(at 43.18 29.21 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -5627,7 +5675,7 @@
 		(at 58.42 158.75 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -5695,7 +5743,7 @@
 		(at 91.44 158.75 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -5763,7 +5811,7 @@
 		(at 91.44 137.16 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -5831,7 +5879,7 @@
 		(at 59.69 50.8 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -5967,6 +6015,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C2099"
+			(at 137.16 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f5246b7f-f8da-40a7-ba6e-5f76249eecb5")
 		)
@@ -5987,7 +6043,7 @@
 		(at 158.75 72.39 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -6055,7 +6111,7 @@
 		(at 109.22 93.98 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -6191,6 +6247,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C2099"
+			(at 36.83 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "bdfe595e-ce45-4b19-99d9-abf6a9d7178e")
 		)
@@ -6211,7 +6275,7 @@
 		(at 124.46 180.34 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -6279,7 +6343,7 @@
 		(at 43.18 72.39 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -6415,6 +6479,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C2099"
+			(at 36.83 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "3a70737b-d8f8-445d-a876-106f4abecb75")
 		)
@@ -6435,7 +6507,7 @@
 		(at 74.93 158.75 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -6571,6 +6643,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C2099"
+			(at 152.4 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "995a4ea0-8c3b-41c7-bcf7-1fdb89d8fb17")
 		)
@@ -6591,7 +6671,7 @@
 		(at 58.42 115.57 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -6725,6 +6805,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "JLCPCB Part" "C2099"
+			(at 119.38 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -6881,6 +6969,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C2099"
+			(at 71.12 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "97cce208-3212-4043-bd2f-3f5cd09a7856")
 		)
@@ -6969,6 +7065,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C2099"
+			(at 102.87 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "997278dc-5d48-4237-935a-088c134d15d8")
 		)
@@ -6989,7 +7093,7 @@
 		(at 107.95 180.34 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -7125,6 +7229,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C2099"
+			(at 119.38 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "4bc3289a-b955-4c56-bb1c-509322006142")
 		)
@@ -7211,6 +7323,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "JLCPCB Part" "C2099"
+			(at 171.45 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -7301,6 +7421,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C2099"
+			(at 86.36 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "62552410-1e89-4dba-b2f1-b5d5ba468c9c")
 		)
@@ -7387,6 +7515,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "JLCPCB Part" "C2099"
+			(at 102.87 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -7477,6 +7613,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C2099"
+			(at 54.61 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f124a2ce-0868-4b8d-9a09-fd09e21a4647")
 		)
@@ -7565,6 +7709,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C2099"
+			(at 69.85 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "e8323b92-e955-47ac-869d-a587ab6606d0")
 		)
@@ -7585,7 +7737,7 @@
 		(at 41.91 180.34 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -7653,7 +7805,7 @@
 		(at 142.24 50.8 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -7721,7 +7873,7 @@
 		(at 107.95 137.16 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -7857,6 +8009,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C2099"
+			(at 175.26 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "d5267648-604c-467e-92d3-8975a6e15e94")
 		)
@@ -7877,7 +8037,7 @@
 		(at 187.96 138.43 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "53759b7d-0cb8-4c68-8058-44f78e898a80")
@@ -8137,7 +8297,7 @@
 		(at 74.93 115.57 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -8273,6 +8433,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C2099"
+			(at 38.1 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "7abdf69e-d489-4e01-86ee-b703757c14e0")
 		)
@@ -8361,6 +8529,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C2099"
+			(at 87.63 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "7207f4a9-b50e-4545-97fb-77da22657418")
 		)
@@ -8381,7 +8557,7 @@
 		(at 142.24 93.98 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -8449,7 +8625,7 @@
 		(at 59.69 29.21 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -8585,6 +8761,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C2099"
+			(at 71.12 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "9964ea06-df02-4eaf-a73d-d040da3a3c11")
 		)
@@ -8673,6 +8857,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C2099"
+			(at 69.85 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "af39ed05-1089-466e-98dd-fcd3f7e7b2ea")
 		)
@@ -8693,7 +8885,7 @@
 		(at 124.46 115.57 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -8761,7 +8953,7 @@
 		(at 124.46 137.16 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -8897,6 +9089,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C2099"
+			(at 102.87 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "5ec40666-17c1-4c26-947c-f6dc2773bb13")
 		)
@@ -8917,7 +9117,7 @@
 		(at 140.97 115.57 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -9053,6 +9253,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C2099"
+			(at 104.14 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "3b049b7e-5479-4d89-beca-4482cd53ad4b")
 		)
@@ -9141,6 +9349,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C2099"
+			(at 135.89 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "d3271037-fc07-40fb-9f8b-4cb80bc19dc0")
 		)
@@ -9161,7 +9377,7 @@
 		(at 184.15 35.56 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "69da3ff1-b563-4847-8316-f0c4b3ad51bc")
@@ -9355,7 +9571,7 @@
 		(at 92.71 50.8 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -9491,6 +9707,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C2099"
+			(at 152.4 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "50543991-3740-4960-b410-6f2426f4c2bb")
 		)
@@ -9511,7 +9735,7 @@
 		(at 158.75 93.98 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -9647,6 +9871,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C2099"
+			(at 153.67 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "700cebaa-89dd-40db-a738-a3caa2991cec")
 		)
@@ -9735,6 +9967,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C2099"
+			(at 104.14 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "8d9da8d9-6209-490b-9d66-67abf4c4d21f")
 		)
@@ -9755,7 +9995,7 @@
 		(at 140.97 180.34 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -9823,7 +10063,7 @@
 		(at 76.2 72.39 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -9959,6 +10199,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C2099"
+			(at 53.34 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "da1412ea-893f-4b01-8803-4f93c94f2b55")
 		)
@@ -9979,7 +10227,7 @@
 		(at 157.48 180.34 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -10113,7 +10361,7 @@
 		(at 74.93 180.34 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -10181,7 +10429,7 @@
 		(at 76.2 29.21 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -10315,7 +10563,7 @@
 		(at 157.48 158.75 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -10451,6 +10699,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C2099"
+			(at 175.26 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "2b202f2d-cdc9-4808-be55-f926d3fb6929")
 		)
@@ -10537,6 +10793,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "JLCPCB Part" "C2099"
+			(at 137.16 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -10627,6 +10891,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C2099"
+			(at 135.89 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "3a9e9008-d6d0-4265-b179-a0c4ad1e8edc")
 		)
@@ -10715,6 +10987,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C2099"
+			(at 86.36 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "febd3089-87ea-42b0-b469-9db1a0761486")
 		)
@@ -10735,7 +11015,7 @@
 		(at 125.73 50.8 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -10803,7 +11083,7 @@
 		(at 125.73 72.39 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -10939,6 +11219,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C2099"
+			(at 54.61 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "63293ade-2f35-4fef-8a5e-c56f9aa8344f")
 		)
@@ -10959,7 +11247,7 @@
 		(at 41.91 137.16 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -11095,6 +11383,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C2099"
+			(at 36.83 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "58ac2305-1735-4b52-8b08-a57ad0d27114")
 		)
@@ -11115,7 +11411,7 @@
 		(at 41.91 115.57 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -11183,7 +11479,7 @@
 		(at 92.71 72.39 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -11319,6 +11615,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C2099"
+			(at 54.61 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "9d0d7193-fe44-461c-820a-68522c6c165f")
 		)
@@ -11405,6 +11709,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "JLCPCB Part" "C2099"
+			(at 135.89 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -11495,6 +11807,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C2099"
+			(at 175.26 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "d006e383-2e6a-4026-84cf-529bda550c63")
 		)
@@ -11581,6 +11901,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "JLCPCB Part" "C2099"
+			(at 104.14 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -11737,6 +12065,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C2099"
+			(at 86.36 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "24201949-f6ad-4775-8ebd-69702a18555d")
 		)
@@ -11825,6 +12161,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C2099"
+			(at 137.16 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "80b09a71-754c-4f32-9aae-d9f60b0d1632")
 		)
@@ -11845,7 +12189,7 @@
 		(at 92.71 29.21 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -11981,6 +12325,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C2099"
+			(at 86.36 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "42033c9f-f596-4ec1-9552-69c13e848f0a")
 		)
@@ -12067,6 +12419,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "JLCPCB Part" "C2099"
+			(at 120.65 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -12157,6 +12517,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C2099"
+			(at 175.26 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "3458c47c-5215-4380-aab0-857278013f14")
 		)
@@ -12177,7 +12545,7 @@
 		(at 140.97 137.16 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -12313,6 +12681,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C2099"
+			(at 38.1 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "d6a967da-320e-406b-8f3b-46656d0ca83a")
 		)
@@ -12333,7 +12709,7 @@
 		(at 142.24 29.21 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -12469,6 +12845,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C2099"
+			(at 119.38 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "a01c92e7-e64a-469f-bd81-4bd5e5d208d6")
 		)
@@ -12557,6 +12941,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C2099"
+			(at 54.61 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "95de619e-bc26-4ecd-9323-762fd43ed897")
 		)
@@ -12577,7 +12969,7 @@
 		(at 76.2 93.98 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -12645,7 +13037,7 @@
 		(at 91.44 180.34 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -12781,6 +13173,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C2099"
+			(at 87.63 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "c988472a-4810-47ed-8b09-4e9bf8efffa4")
 		)
@@ -12801,7 +13201,7 @@
 		(at 157.48 115.57 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -12869,7 +13269,7 @@
 		(at 187.96 95.25 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "a98d8487-bebf-4e98-b664-43872258810f")
@@ -13131,6 +13531,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C2099"
+			(at 219.71 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "8c24257b-f87e-480c-8c86-6e7f21d81408")
 		)
@@ -13151,7 +13559,7 @@
 		(at 92.71 93.98 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -13287,6 +13695,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C2099"
+			(at 153.67 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "bdd6c3c2-ccc4-4589-a384-db47c7012e13")
 		)
@@ -13307,7 +13723,7 @@
 		(at 140.97 158.75 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -13375,7 +13791,7 @@
 		(at 74.93 137.16 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -13511,6 +13927,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C2099"
+			(at 175.26 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "bffb77bc-ffd5-4689-93c7-dd1dd769ca9f")
 		)
@@ -13597,6 +14021,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "JLCPCB Part" "C2099"
+			(at 135.89 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -13753,6 +14185,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C2099"
+			(at 87.63 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f0029842-7b15-4e0f-ade8-68e6771d83c5")
 		)
@@ -13839,6 +14279,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "JLCPCB Part" "C2099"
+			(at 119.38 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -13929,6 +14377,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C2099"
+			(at 152.4 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "12aa2aff-d75d-4b34-b561-4625f4b7169d")
 		)
@@ -14017,6 +14473,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C2099"
+			(at 87.63 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "09f9f547-9985-4506-bc15-98f6ce2380eb")
 		)
@@ -14037,7 +14501,7 @@
 		(at 43.18 50.8 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -14173,6 +14637,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C2099"
+			(at 71.12 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "0f3a7a61-9758-4486-8d02-94b9b435210b")
 		)
@@ -14193,7 +14665,7 @@
 		(at 125.73 29.21 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -14261,7 +14733,7 @@
 		(at 58.42 180.34 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -14397,6 +14869,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C2099"
+			(at 38.1 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "85312ddd-e322-458e-b229-7ff31c2ae775")
 		)
@@ -14417,7 +14897,7 @@
 		(at 91.44 115.57 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -14553,6 +15033,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C2099"
+			(at 120.65 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "16ea009d-ef31-44ac-a776-791124b0d972")
 		)
@@ -14641,6 +15129,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C2099"
+			(at 69.85 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "5ad0b017-5e86-4ee9-ba96-c8d3fa76d8d3")
 		)
@@ -14661,7 +15157,7 @@
 		(at 109.22 50.8 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -14729,7 +15225,7 @@
 		(at 58.42 137.16 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -14797,7 +15293,7 @@
 		(at 107.95 115.57 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -14865,7 +15361,7 @@
 		(at 59.69 72.39 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -14933,7 +15429,7 @@
 		(at 107.95 158.75 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -15001,7 +15497,7 @@
 		(at 187.96 78.74 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "dea4b97c-7c2f-4556-945e-f7e670f13a81")
@@ -15261,7 +15757,7 @@
 		(at 125.73 93.98 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -15397,6 +15893,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C2099"
+			(at 102.87 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "16e3fb3b-83d4-4f39-9a6a-b0942c132b19")
 		)
@@ -15483,6 +15987,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "JLCPCB Part" "C2099"
+			(at 104.14 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -15573,6 +16085,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C2099"
+			(at 71.12 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "745cad27-48b8-4d6f-927f-3febed33bcda")
 		)
@@ -15659,6 +16179,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "JLCPCB Part" "C2099"
+			(at 153.67 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -15749,6 +16277,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C2099"
+			(at 53.34 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "be0cb4ec-9b1b-4849-a0c2-370017298e32")
 		)
@@ -15769,7 +16305,7 @@
 		(at 43.18 93.98 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -15905,6 +16441,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C2099"
+			(at 120.65 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "6cf92285-ac01-43cc-a2f5-c9d577326d7b")
 		)
@@ -15993,6 +16537,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C2099"
+			(at 53.34 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f7b6ac0c-6de3-4b00-aae5-344945447bda")
 		)
@@ -16013,7 +16565,7 @@
 		(at 142.24 72.39 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -16081,7 +16633,7 @@
 		(at 187.96 57.15 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "f2967cb3-6cad-4e3c-8871-2f96ecc15e20")
@@ -16343,6 +16895,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C2099"
+			(at 152.4 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "b5d6da0d-28df-4605-8438-f1183cbaad2e")
 		)
@@ -16363,7 +16923,7 @@
 		(at 41.91 158.75 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -16499,6 +17059,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C2099"
+			(at 69.85 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "09342a5b-c2a4-4eff-91ae-2b3d5950385a")
 		)
@@ -16519,7 +17087,7 @@
 		(at 157.48 137.16 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)

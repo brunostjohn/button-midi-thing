@@ -6712,6 +6712,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C2040"
+			(at 57.15 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "45"
 			(uuid "33e390ce-8bf3-4f42-8e83-2180ce1af8ee")
 		)
@@ -6945,6 +6954,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C541361"
+			(at 224.79 76.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a9487e80-8362-45bc-8114-13d7d2240f9e")
 		)
@@ -7007,6 +7025,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 214.63 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part" "C11702"
 			(at 214.63 29.21 0)
 			(effects
 				(font
@@ -7280,6 +7307,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C25905"
+			(at 207.01 118.11 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "af74674f-2849-4144-b954-d550e527d46a")
 		)
@@ -7416,6 +7452,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C541407"
+			(at 146.05 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "06d195e8-2f0d-4760-9bc5-eb423a528ab5")
 		)
@@ -7486,6 +7531,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C437522"
+			(at 68.58 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "54b7b74d-049c-4987-9dae-0c9e42173daf")
 		)
@@ -7547,6 +7601,15 @@
 			)
 		)
 		(property "Description" "Positive 60-250mA Low Dropout Regulator, Fixed Output, SOT-23"
+			(at 171.45 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part" "C5148692"
 			(at 171.45 31.75 0)
 			(effects
 				(font
@@ -7760,6 +7823,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C541407"
+			(at 134.62 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "97b5c648-f4f8-4a7c-a242-baefd64999f9")
 		)
@@ -7894,6 +7966,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C541407"
+			(at 270.51 31.75 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "22aafeda-10c1-44a3-8b2b-17dd67d5e08d")
 		)
@@ -7961,6 +8042,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C25100"
+			(at 31.75 76.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0a64b3a4-d11e-4e91-a7be-9211c9829b91")
 		)
@@ -8021,6 +8111,15 @@
 			)
 		)
 		(property "Description" "USB 2.0-only 16P Type-C Receptacle connector"
+			(at 176.53 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part" "C963213"
 			(at 176.53 128.27 0)
 			(effects
 				(font
@@ -8210,6 +8309,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C541407"
+			(at 100.33 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e46b4157-0d63-4130-bcfa-ddf2a7a1330e")
 		)
@@ -8269,6 +8377,15 @@
 			)
 		)
 		(property "Description" "Fuse, small symbol"
+			(at 199.39 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part" "C136320"
 			(at 199.39 113.03 0)
 			(effects
 				(font
@@ -8413,6 +8530,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C437522"
+			(at 182.88 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c59d85fc-3652-4dbe-bd45-cd53ed305fc0")
 		)
@@ -8539,6 +8665,15 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 200.66 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part" "C25905"
+			(at 200.66 121.92 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8813,6 +8948,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C541407"
+			(at 88.9 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a9cb4cf7-7d2a-4ea2-ab73-e37a0d544423")
 		)
@@ -8875,6 +9019,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 30.48 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part" "C11702"
 			(at 30.48 54.61 0)
 			(effects
 				(font
@@ -9277,6 +9430,15 @@
 					(size 1.27 1.27)
 				)
 				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part" "C377853"
+			(at 238.76 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -9767,6 +9929,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C437522"
+			(at 160.02 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d7ed8b96-edd0-4776-91cf-0258ca8f3855")
 		)
@@ -9895,6 +10066,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 77.47 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part" "C541407"
 			(at 77.47 180.34 0)
 			(effects
 				(font
@@ -10036,6 +10216,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C541361"
+			(at 224.79 87.63 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "de3e3376-b82b-4b88-83f3-dcb74630f7a2")
 		)
@@ -10056,7 +10245,7 @@
 		(at 220.98 24.13 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -10190,7 +10379,7 @@
 		(at 259.08 119.38 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -10385,6 +10574,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C6119763"
+			(at 58.42 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "962ce3b4-30c0-43f7-bbb1-9beae6be481d")
 		)
@@ -10447,6 +10645,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 115.57 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part" "C541407"
 			(at 115.57 25.4 0)
 			(effects
 				(font
@@ -10525,6 +10732,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C541407"
+			(at 123.19 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bb29ac8b-649a-4f3a-898d-7d8ef384de80")
 		)
@@ -10595,6 +10811,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C541407"
+			(at 111.76 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "00901693-38a9-4760-b132-683c63b57c87")
 		)
@@ -10657,6 +10882,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 90.17 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part" "C437522"
 			(at 90.17 25.4 0)
 			(effects
 				(font
@@ -10798,6 +11032,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C9002"
+			(at 237.49 78.74 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "f36d456b-2b5d-45c4-a152-914230bd92d4")
 		)
@@ -10869,6 +11112,15 @@
 			)
 		)
 		(property "Description" "Very low capacitance ESD protection diode, 2 data-line, SOT-23-6"
+			(at 171.45 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part" "C7519"
 			(at 171.45 71.12 0)
 			(effects
 				(font
@@ -11025,6 +11277,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C541407"
+			(at 99.06 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "26c5d654-01b8-430d-8dff-9bde5af8ed98")
 		)
@@ -11085,6 +11346,15 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 31.75 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part" "C25100"
+			(at 31.75 68.58 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11218,6 +11488,15 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 33.02 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part" "C11702"
+			(at 33.02 88.9 90)
 			(effects
 				(font
 					(size 1.27 1.27)
