@@ -8358,7 +8358,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Fuse:Fuse_0402_1005Metric-notxt"
+		(property "Footprint" "Fuse:Fuse_1206_3216Metric"
 			(at 199.39 113.03 0)
 			(effects
 				(font
