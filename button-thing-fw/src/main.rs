@@ -13,6 +13,7 @@ use rp_pico::hal::pac::interrupt;
 use rp_pico::{self as bsp};
 
 mod board;
+mod colour;
 mod globals;
 mod utils;
 

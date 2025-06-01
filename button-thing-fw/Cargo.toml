@@ -18,6 +18,7 @@ rp-pico = "0.9"
 usb-device = { version = "0.3.2", features = ["log", "defmt"] }
 usbd-midi = "0.5.0"
 anyhow = { version = "1.0.98", default-features = false }
+ws2812-pio = "0.9.0"
 
 # but you can use any BSP. Uncomment this to use the pro_micro_rp2040 BSP instead
 # sparkfun-pro-micro-rp2040 = "0.8"
