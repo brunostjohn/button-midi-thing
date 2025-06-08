@@ -1,5 +1,5 @@
-use rp_pico::{
-    hal::{self, clocks::UsbClock},
+use rp2040_hal::{
+    clocks::UsbClock,
     pac::{RESETS, USBCTRL_DPRAM, USBCTRL_REGS},
 };
 use usb_device::{
@@ -14,14 +14,14 @@ pub fn init_usb_midi<'a>(
     ctrl_reg: USBCTRL_REGS,
     ctrl_dparam: USBCTRL_DPRAM,
     usb_clock: UsbClock,
-    mut resets: RESETS,
+    resets: &mut RESETS,
 ) -> anyhow::Result<()> {
-    let usb_bus = UsbBusAllocator::new(hal::usb::UsbBus::new(
+    let usb_bus = UsbBusAllocator::new(rp2040_hal::usb::UsbBus::new(
         ctrl_reg,
         ctrl_dparam,
         usb_clock,
         true,
-        &mut resets,
+        resets,
     ));
     unsafe {
         USB_BUS = Some(usb_bus);

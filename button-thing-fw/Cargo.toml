@@ -14,11 +14,23 @@ defmt-rtt = "1"
 panic-probe = { version = "1", features = ["print-defmt"] }
 
 # We're using a Pico by default on this template
-rp-pico = "0.9"
+
 usb-device = { version = "0.3.2", features = ["log", "defmt"] }
 usbd-midi = "0.5.0"
 anyhow = { version = "1.0.98", default-features = false }
-ws2812-pio = "0.9.0"
+ws2812-pio = "0.8.0"
+embedded-alloc = "0.6.0"
+smart-leds = "0.3.0"
+keypad = "0.2.2"
+midi-convert = "0.2.0"
+heapless = "0.8.0"
+debounced-pin = "0.3.0"
+critical-section = "1.2.0"
+rp2040-hal = { version = "0.11.0", features = [
+    "defmt",
+    "critical-section-impl",
+    "rt",
+] }
 
 # but you can use any BSP. Uncomment this to use the pro_micro_rp2040 BSP instead
 # sparkfun-pro-micro-rp2040 = "0.8"
