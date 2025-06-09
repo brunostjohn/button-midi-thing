@@ -5837,7 +5837,7 @@
 	)
 	(global_label "D_USB_N"
 		(shape input)
-		(at 176.53 71.12 0)
+		(at 176.53 73.66 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5847,7 +5847,7 @@
 		)
 		(uuid "2590af69-17d0-473e-9956-8278c55c277c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 187.8609 71.12 0)
+			(at 187.8609 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6075,7 +6075,7 @@
 	)
 	(global_label "D_P"
 		(shape input)
-		(at 166.37 73.66 180)
+		(at 166.37 71.12 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6085,7 +6085,7 @@
 		)
 		(uuid "5e20d7a9-ce7c-4c5f-a52e-86261159bf6f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 159.8772 73.66 0)
+			(at 159.8772 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6229,22 +6229,22 @@
 	)
 	(global_label "D_USB_P"
 		(shape input)
-		(at 166.37 71.12 180)
+		(at 176.53 71.12 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "7e01d91d-23d6-43d1-b7f9-d4422561ce68")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 155.0996 71.12 0)
+			(at 187.8004 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -6315,22 +6315,22 @@
 	)
 	(global_label "D_N"
 		(shape input)
-		(at 176.53 73.66 0)
+		(at 166.37 73.66 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "9821513c-0fe1-4c4f-a7ab-6bfef4d130cb")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 183.0833 73.66 0)
+			(at 159.8167 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -11005,7 +11005,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Crystal:Crystal_SMD_2016-4Pin_2.0x1.6mm-notxt"
+		(property "Footprint" "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm"
 			(at 237.49 78.74 0)
 			(effects
 				(font
